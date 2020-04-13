@@ -233,3 +233,7 @@ project.lock.json
 
 # Local History for Visual Studio Code
 .history/
+
+
+*.csproj
+Program.cs
