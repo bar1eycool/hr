@@ -7,6 +7,11 @@
 # or wget:
 # wget --no-check-certificate http://gist.githubusercontent.com/kmorcinek/2710267/raw/.gitignore
 
+*.csproj
+Program.cs
+bin
+
+
 # User-specific files
 *.suo
 *.user
@@ -234,6 +239,3 @@ project.lock.json
 # Local History for Visual Studio Code
 .history/
 
-
-*.csproj
-Program.cs
